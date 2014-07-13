@@ -40,7 +40,7 @@ Installing LaTeX and Beamer
 If you wish to build the `beamer` target, you will need to install the `latex-beamer` package with:
 
 ```
-sudo apt-get isntall latex-beamer
+sudo apt-get install latex-beamer
 ```
 
 Write Slides
