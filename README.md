@@ -2,7 +2,7 @@
 
 A template project for creating a Literate Haskell Module to build slides from using `pandoc`
 
-It renders a **Literate Haskell** module that looks like [**this**] [lhs-example] into something that looks like [**this**] [revealjs-example]
+It renders a **Literate Haskell** module that looks like [**this**] [lhs-example] into something that looks like [**this**] [revealjs-example] (Using [**pandoc**] [pandoc-link] and [**revealjs**] [revealjs-link])
 
 For a guide on how to use what `g8` will generate, see [**these slides**] [revealjs-example]
 
@@ -32,3 +32,5 @@ This template can be downloaded with the command (assuming `~/bin` is added to y
 [giter8-install]: https://github.com/n8han/giter8/blob/master/README.markdown#installation "Installation instructions for Giter8"
 [revealjs-example]: http://blog.forgetfulfunctor.com/literate-haskell-slides.g8/ "Reveal.js example"
 [lhs-example]: ./src/main/g8/src/Talk.lhs "Literate Haskell Example"
+[pandoc-link]: http://johnmacfarlane.net/pandoc/ "Pandoc"
+[revealjs-link]: http://lab.hakim.se/reveal-js/ "Reveal.js"
