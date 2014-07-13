@@ -1,0 +1,22 @@
+# Haskell build files
+*.a
+*.o
+*.hi
+
+# files we just generally dont want in the repo
+*.swp
+*.log
+
+# Python compiled bytecode
+*.pyc
+
+# potential build files:
+data/
+
+# cabal build directory:
+dist/
+cabal-dev/
+sandbox/
+
+# the test out dir when testing the g8 templates locally
+target/
